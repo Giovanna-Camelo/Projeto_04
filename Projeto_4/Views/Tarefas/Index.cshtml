@@ -1,0 +1,38 @@
+﻿@model List<Tarefas>
+
+<h2>Lista de Tarefas📋</h2>
+
+<p>
+    <a asp-action="Create">Adicionar Tarefa📥</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>TarefaId</th>
+            <th>Nome da Tarefa</th>
+            <th>Discrição da Tarefa</th>
+            <th>Data</th>
+            <th>Status</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tarefas in Model)
+        {
+            <tr>
+                <td>@tarefas.TarefaId</td>
+                <td>@tarefas.TarefaName</td>
+                <td>@tarefas.TarefaDescription</td>
+                <td>@tarefas.Data</td>
+                <td>@tarefas.Status</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@tarefas.TarefaId">Editar📝</a> |
+                    <a asp-action="Delete" asp-route-id="@tarefas.TarefaId">Deletar🗑️</a>|
+                    <a asp-action="Details" asp-route-id="@tarefas.TarefaId">Detalhes🗂️</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

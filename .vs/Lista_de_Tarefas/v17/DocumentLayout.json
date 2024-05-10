@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\views\\tarefas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\views\\tarefas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\views\\tarefas\\fazer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\views\\tarefas\\fazer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\views\\tarefas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\views\\tarefas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\views\\tarefas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\views\\tarefas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\views\\tarefas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\views\\tarefas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\views\\tarefas\\concluido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\views\\tarefas\\concluido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\models\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\models\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|c:\\users\\g.velozo.camelo\\source\\repos\\lista_de_tarefas\\projeto_4\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76B0857-C09A-4BCD-BC8E-2E57F4007740}|Projeto_4\\Projeto_4.csproj|solutionrelative:projeto_4\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projeto_4\\Views\\Tarefas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Create.cshtml",
+              "RelativeToolTip": "Projeto_4\\Views\\Tarefas\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:18:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Projeto_4\\Views\\Tarefas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Details.cshtml",
+              "RelativeToolTip": "Projeto_4\\Views\\Tarefas\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:18:31.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fazer.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Fazer.cshtml",
+              "RelativeDocumentMoniker": "Projeto_4\\Views\\Tarefas\\Fazer.cshtml",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Fazer.cshtml",
+              "RelativeToolTip": "Projeto_4\\Views\\Tarefas\\Fazer.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:19:05.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Projeto_4\\Views\\Tarefas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Edit.cshtml",
+              "RelativeToolTip": "Projeto_4\\Views\\Tarefas\\Edit.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:18:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto_4\\Views\\Tarefas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Index.cshtml",
+              "RelativeToolTip": "Projeto_4\\Views\\Tarefas\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:17:24.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Concluido.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Concluido.cshtml",
+              "RelativeDocumentMoniker": "Projeto_4\\Views\\Tarefas\\Concluido.cshtml",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Tarefas\\Concluido.cshtml",
+              "RelativeToolTip": "Projeto_4\\Views\\Tarefas\\Concluido.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:17:42.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto_4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Projeto_4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:20:39.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Projeto_4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Projeto_4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T20:20:10.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "Projeto_4\\Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "Projeto_4\\Controllers\\TarefasController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:16:05.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarefas.cs",
+              "DocumentMoniker": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Models\\Tarefas.cs",
+              "RelativeDocumentMoniker": "Projeto_4\\Models\\Tarefas.cs",
+              "ToolTip": "C:\\Users\\g.velozo.camelo\\source\\repos\\Lista_de_Tarefas\\Projeto_4\\Models\\Tarefas.cs",
+              "RelativeToolTip": "Projeto_4\\Models\\Tarefas.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:16:36.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
